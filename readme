@@ -1,1 +1,8 @@
 apk link - https://expo.io/artifacts/6db56136-9b21-4b1b-92e2-7248153429e2
+
+
+# App CEP
+
+## Application with react Native to consume a CEP information API
+
+`npm install -g expo`
